@@ -8,6 +8,9 @@
 2. Open a terminal where you usually run python from
 3. `pip install --upgrade streamlit opencv-python` 
 4. `streamlit run https://raw.githubusercontent.com/AVJdataminer/GHE/master/streamlit.py`
+5. Follow the links in a new browser page.
+
+Stop by typing Cntrl+ c in the terminal.
 
 Try out a few different repos and check back later for changes.
 
