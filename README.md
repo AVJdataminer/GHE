@@ -4,6 +4,8 @@
 ![](https://raw.githubusercontent.com/AVJdataminer/GHE/master/screenshot.png)
 
 ## How to run it.
+Open a terminal where you usually run python from
+
 pip install --upgrade streamlit opencv-python 
 
 streamlit run https://raw.githubusercontent.com/AVJdataminer/GHE/master/streamlit.py
