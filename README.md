@@ -1,5 +1,5 @@
 # GHE
-Streamlit app for exploring github issues
+## Streamlit app for exploring github issues - a work in progress.
 
 pip install --upgrade streamlit opencv-python
-streamlit run https://raw.githubusercontent.com/AVJdataminer/GHE/master/stream.py
+streamlit run https://raw.githubusercontent.com/AVJdataminer/GHE/master/streamlit.py
