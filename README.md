@@ -10,3 +10,6 @@
 4. `streamlit run https://raw.githubusercontent.com/AVJdataminer/GHE/master/streamlit.py`
 
 Try out a few different repos and check back later for changes.
+
+## Running it from Google colab 
+You can also run it from this [Google Colab Notebook](https://raw.githubusercontent.com/AVJdataminer/GHE/master/Run_GHE_streamlit_colab.ipynb).
