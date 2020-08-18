@@ -15,4 +15,4 @@ Stop by typing Cntrl+ c in the terminal.
 Try out a few different repos and check back later for changes.
 
 ## Running it from Google colab 
-You can also run it from this [Google Colab Notebook](https://raw.githubusercontent.com/AVJdataminer/GHE/master/Run_GHE_streamlit_colab.ipynb).
+You can also run it from this [Google Colab Notebook](https://colab.research.google.com/github/AVJdataminer/GHE/blob/master/Run_GHE_streamlit_colab.ipynb).
