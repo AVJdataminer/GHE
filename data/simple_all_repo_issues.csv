@@ -1,0 +1,1260 @@
+created_at,updated_at,closed_at,title,repository_url,number
+20200812,20200812,20200812,Update random_forest_guided_example.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,159
+20200807,20200810,20200810,Update model_prep_feature_engineering_2.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,158
+20200803,20200804,20200804,Closes Thinkful-Ed/data-science#1408,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,157
+20200730,20200730,20200730,Fix issue,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,156
+20200729,20200729,20200729,Update 6.1.1 Intro to Time.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,155
+20200724,20200727,20200727,Closes Thinkful-Ed/data-science#1369,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,154
+20200724,20200807,20200805,Copyedit 0709,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,153
+20200721,20200721,20200721,Update working_with_dictionaries.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,152
+20200721,20200721,20200721,Update working_with_dictionaries.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,151
+20200721,20200721,20200721,fixed conditional logic,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,150
+20200716,20200716,20200716,Update model_prep_data_cleaning_variable_types.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,149
+20200715,20200715,NaT,Update libraries,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,148
+20200714,20200716,20200716,Update t_test_checkpoint_experimental_design_pima_demo.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,147
+20200711,20200713,20200713,User issue 946,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,146
+20200711,20200713,20200713,fixed execution error,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,145
+20200708,20200708,20200708,Update checkpoint_4_beyond_a_b_testing.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,144
+20200707,20200708,20200708,Update 8.text_generation.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,143
+20200702,20200702,20200702,kick tires,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,142
+20200629,20200706,20200706,Kfarbman maintenance20200629,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,141
+20200625,20200629,20200629,Closes Thinkful-Ed/data-science#1294,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,140
+20200625,20200706,20200706,deleted assign nb to transition to auto-assessments,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,139
+20200623,20200629,20200629,added a multiclass dummies example,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,138
+20200618,20200618,20200618,fix loading error,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,137
+20200618,20200619,20200619,Update 5.2.2 Basic scraping with scrapy.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,136
+20200617,20200619,20200619,Closes Thinkful-Ed/data-science#1261,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,135
+20200616,20200619,20200619,updated both nb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,134
+20200616,20200616,20200616,"Revert ""updated SQL and intro pandas""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,133
+20200616,20200616,20200616,"Revert ""updated SQL and intro pandas""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,132
+20200612,20200615,20200615,Update checkpoint Beyond AB Test,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,131
+20200611,20200615,20200615,Clearing up theta explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,130
+20200610,20200615,20200615,Kfarbman maintenance 20200610,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,129
+20200610,20200615,20200615,Notifying about more details for PCA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,128
+20200609,20200615,20200615,updated model prep outliers notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,127
+20200609,20200629,20200629,updated jupyters for python intro and mods for da,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,126
+20200603,20200615,20200615,Adding some more context when using get_dummies,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,125
+20200601,20200615,20200615,Adding cross validation explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,124
+20200601,20200601,20200601,[Standard deviation/Variance] User-submitted feedback for DSBC-PYTHON…,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,123
+20200601,20200615,20200615,Updating KNN regression notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,122
+20200601,20200603,20200603,Kfarbman maintenance 20200601,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,121
+20200529,20200601,20200601,Adding description for I in ARIMA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,120
+20200509,20200521,20200521,kfarbman-maintenance-20200509,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,119
+20200505,20200511,20200511,Learnosity machine learning,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,118
+20200504,20200508,20200508,Closes Thinkful-Ed/data-science#1137,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,117
+20200428,20200503,20200503,Kfarbman maintenance 20200428,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,116
+20200425,20200426,20200426,Kfarbman maintenance 20200425,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,115
+20200420,20200424,20200424,Kfarbman maintenance 20200420,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,114
+20200415,20200419,20200419,Kfarbman maintenance 20200414,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,113
+20200403,20200405,20200404,Kfarbman maintenance 20200331,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,112
+20200320,20200327,20200327,Close #998,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,111
+20200312,20200313,20200313,Close #969,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,110
+20200305,20200305,20200305,Update checkpoint,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,109
+20200302,20200305,20200305,Kfarbman maintenance 20200301,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,108
+20200131,20200131,20200131,Update instructions for PCA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,107
+20200131,20200131,20200131,Fix p-value explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,106
+20200130,20200130,20200130,Fix confidence interval equation rendering,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,105
+20200130,20200130,20200130,Define features and targets,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,104
+20200129,20200130,20200129,"Make statistical tests in Pandas prep ""optional""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,103
+20200122,20200123,20200123,Fix typo,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,102
+20200103,20200103,20200103,updated gradient boost metrics for easier understanding,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,101
+20200103,20200103,20200103,added more detail on probability mass function,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,100
+20200102,20200102,20200102,dataset correction,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,99
+20191220,20191220,20191220,update JN with new link,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,98
+20191219,20191219,20191219,Kfarbman maintenance 20191219,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,97
+20191219,20191219,20191219,Close #731,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,96
+20191218,20191218,20191218,Kfarbman maintenance 20191213,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,95
+20191215,20191216,20191216,sql,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,94
+20191215,20191216,20191216,Fix wording,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,93
+20191212,20191212,20191212,Kfarbman maintenance 20191212,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,92
+20191211,20191216,20191216,Fix wording,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,91
+20191209,20191209,20191209,Kfarbman maintenance 20191203,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,90
+20191208,20191210,20191210,Baolin thinkful data science,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,89
+20191202,20191203,20191203,Kfarbman maintenance 20191202,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,88
+20191127,20191127,20191127,Updating notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,87
+20191127,20191127,20191127,Kfarbman maintenance 20191125,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,86
+20191127,20191127,20191127,Close #613,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,85
+20191125,20191125,20191125,Kfarbman maintenance 20191121,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,84
+20191118,20191118,20191118,Close #606,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,83
+20191117,20191118,20191118,spelling fixes,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,82
+20191117,20191118,20191118,changed the naming from numeric to integer values ,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,81
+20191114,20191114,20191114,adding missing .pngs,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,80
+20191114,20191114,20191114,Kfarbman maintenance 20191111,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,79
+20191111,20200714,20191111,Baolin thinkful data science,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,78
+20191106,20191106,20191106,rotation error fixed in model prep feature engineering 2,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,77
+20191103,20191104,20191104,Close #562,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,76
+20191101,20191101,20191101,adding gradient descent assets for classification module linear,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,75
+20191031,20191101,20191101,Kfarbman maintenance 20191029,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,74
+20191028,20191029,20191029,Kfarbman maintenance 20191024,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,73
+20191022,20191102,20191023,Kfarbman maintenance 20191021,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,72
+20191021,20191024,20191024,Kfarbman maintenance 20191019,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,71
+20191018,20191018,20191018,Kfarbman maintenance 20191017,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,70
+20191018,20191018,20191018,error in notebook- trying to fix,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,69
+20191016,20191016,20191016,Kfarbman maintenance 20191015,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,68
+20191014,20191015,20191015,Closes issue #502,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,67
+20191010,20191010,20191010,Kfarbman maintenance 20191007,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,66
+20191007,20191007,20191007,updating JNs,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,65
+20191007,20191007,20191007,moving JNs to correct directory,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,64
+20191007,20191007,20191007,Kfarbman maintenance 20191003,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,63
+20191003,20191003,20191003,updating csv reference,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,62
+20191003,20191003,20191003,New big data module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,61
+20191003,20191003,20191003,Close #418,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,60
+20200812,20200812,20200812,Update random_forest_guided_example.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,159
+20200807,20200810,20200810,Update model_prep_feature_engineering_2.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,158
+20200803,20200804,20200804,Closes Thinkful-Ed/data-science#1408,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,157
+20200730,20200730,20200730,Fix issue,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,156
+20200729,20200729,20200729,Update 6.1.1 Intro to Time.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,155
+20200724,20200727,20200727,Closes Thinkful-Ed/data-science#1369,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,154
+20200724,20200807,20200805,Copyedit 0709,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,153
+20200721,20200721,20200721,Update working_with_dictionaries.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,152
+20200721,20200721,20200721,Update working_with_dictionaries.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,151
+20200721,20200721,20200721,fixed conditional logic,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,150
+20200716,20200716,20200716,Update model_prep_data_cleaning_variable_types.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,149
+20200715,20200715,NaT,Update libraries,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,148
+20200714,20200716,20200716,Update t_test_checkpoint_experimental_design_pima_demo.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,147
+20200711,20200713,20200713,User issue 946,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,146
+20200711,20200713,20200713,fixed execution error,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,145
+20200708,20200708,20200708,Update checkpoint_4_beyond_a_b_testing.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,144
+20200707,20200708,20200708,Update 8.text_generation.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,143
+20200702,20200702,20200702,kick tires,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,142
+20200629,20200706,20200706,Kfarbman maintenance20200629,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,141
+20200625,20200629,20200629,Closes Thinkful-Ed/data-science#1294,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,140
+20200625,20200706,20200706,deleted assign nb to transition to auto-assessments,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,139
+20200623,20200629,20200629,added a multiclass dummies example,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,138
+20200618,20200618,20200618,fix loading error,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,137
+20200618,20200619,20200619,Update 5.2.2 Basic scraping with scrapy.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,136
+20200617,20200619,20200619,Closes Thinkful-Ed/data-science#1261,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,135
+20200616,20200619,20200619,updated both nb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,134
+20200616,20200616,20200616,"Revert ""updated SQL and intro pandas""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,133
+20200616,20200616,20200616,"Revert ""updated SQL and intro pandas""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,132
+20200612,20200615,20200615,Update checkpoint Beyond AB Test,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,131
+20200611,20200615,20200615,Clearing up theta explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,130
+20200610,20200615,20200615,Kfarbman maintenance 20200610,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,129
+20200610,20200615,20200615,Notifying about more details for PCA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,128
+20200609,20200615,20200615,updated model prep outliers notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,127
+20200609,20200629,20200629,updated jupyters for python intro and mods for da,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,126
+20200603,20200615,20200615,Adding some more context when using get_dummies,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,125
+20200601,20200615,20200615,Adding cross validation explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,124
+20200601,20200601,20200601,[Standard deviation/Variance] User-submitted feedback for DSBC-PYTHON…,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,123
+20200601,20200615,20200615,Updating KNN regression notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,122
+20200601,20200603,20200603,Kfarbman maintenance 20200601,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,121
+20200529,20200601,20200601,Adding description for I in ARIMA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,120
+20200509,20200521,20200521,kfarbman-maintenance-20200509,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,119
+20200505,20200511,20200511,Learnosity machine learning,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,118
+20200504,20200508,20200508,Closes Thinkful-Ed/data-science#1137,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,117
+20200428,20200503,20200503,Kfarbman maintenance 20200428,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,116
+20200425,20200426,20200426,Kfarbman maintenance 20200425,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,115
+20200420,20200424,20200424,Kfarbman maintenance 20200420,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,114
+20200415,20200419,20200419,Kfarbman maintenance 20200414,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,113
+20200403,20200405,20200404,Kfarbman maintenance 20200331,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,112
+20200320,20200327,20200327,Close #998,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,111
+20200312,20200313,20200313,Close #969,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,110
+20200305,20200305,20200305,Update checkpoint,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,109
+20200302,20200305,20200305,Kfarbman maintenance 20200301,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,108
+20200131,20200131,20200131,Update instructions for PCA,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,107
+20200131,20200131,20200131,Fix p-value explanation,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,106
+20200130,20200130,20200130,Fix confidence interval equation rendering,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,105
+20200130,20200130,20200130,Define features and targets,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,104
+20200129,20200130,20200129,"Make statistical tests in Pandas prep ""optional""",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,103
+20200122,20200123,20200123,Fix typo,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,102
+20200103,20200103,20200103,updated gradient boost metrics for easier understanding,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,101
+20200103,20200103,20200103,added more detail on probability mass function,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,100
+20200102,20200102,20200102,dataset correction,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,99
+20191220,20191220,20191220,update JN with new link,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,98
+20191219,20191219,20191219,Kfarbman maintenance 20191219,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,97
+20191219,20191219,20191219,Close #731,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,96
+20191218,20191218,20191218,Kfarbman maintenance 20191213,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,95
+20191215,20191216,20191216,sql,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,94
+20191215,20191216,20191216,Fix wording,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,93
+20191212,20191212,20191212,Kfarbman maintenance 20191212,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,92
+20191211,20191216,20191216,Fix wording,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,91
+20191209,20191209,20191209,Kfarbman maintenance 20191203,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,90
+20191208,20191210,20191210,Baolin thinkful data science,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,89
+20191202,20191203,20191203,Kfarbman maintenance 20191202,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,88
+20191127,20191127,20191127,Updating notebook,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,87
+20191127,20191127,20191127,Kfarbman maintenance 20191125,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,86
+20191127,20191127,20191127,Close #613,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,85
+20191125,20191125,20191125,Kfarbman maintenance 20191121,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,84
+20191118,20191118,20191118,Close #606,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,83
+20191117,20191118,20191118,spelling fixes,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,82
+20191117,20191118,20191118,changed the naming from numeric to integer values ,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,81
+20191114,20191114,20191114,adding missing .pngs,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,80
+20191114,20191114,20191114,Kfarbman maintenance 20191111,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,79
+20191111,20200714,20191111,Baolin thinkful data science,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,78
+20191106,20191106,20191106,rotation error fixed in model prep feature engineering 2,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,77
+20191103,20191104,20191104,Close #562,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,76
+20191101,20191101,20191101,adding gradient descent assets for classification module linear,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,75
+20191031,20191101,20191101,Kfarbman maintenance 20191029,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,74
+20191028,20191029,20191029,Kfarbman maintenance 20191024,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,73
+20191022,20191102,20191023,Kfarbman maintenance 20191021,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,72
+20191021,20191024,20191024,Kfarbman maintenance 20191019,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,71
+20191018,20191018,20191018,Kfarbman maintenance 20191017,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,70
+20191018,20191018,20191018,error in notebook- trying to fix,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,69
+20191016,20191016,20191016,Kfarbman maintenance 20191015,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,68
+20191014,20191015,20191015,Closes issue #502,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,67
+20191010,20191010,20191010,Kfarbman maintenance 20191007,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,66
+20191007,20191007,20191007,updating JNs,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,65
+20191007,20191007,20191007,moving JNs to correct directory,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,64
+20191007,20191007,20191007,Kfarbman maintenance 20191003,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,63
+20191003,20191003,20191003,updating csv reference,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,62
+20191003,20191003,20191003,New big data module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,61
+20191003,20191003,20191003,Close #418,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,60
+20191002,20191002,20191002,Updating JNs,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,59
+20190925,20190925,20190925,Kfarbman maintenance 20190924,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,58
+20190924,20190924,20190924,New dl module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,57
+20190923,20190923,20190923,Issue 586,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,56
+20190920,20190920,20190920,merging NLP notebooks to proper location,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,55
+20190920,20190920,20190920,New nlp module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,54
+20190919,20190919,20190919,Kfarbman maintenance 20190918,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,53
+20190915,20190917,20190917,Close #359,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,52
+20190909,20190909,20190909,Kfarbman maintenance 20190905,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,51
+20190908,20190909,20190909,Kfarbman maintenance 20190907,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,50
+20190905,20190905,20190905,Close #306,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,49
+20190903,20190904,20190904,Close #295,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,48
+20190830,20190909,20190909,Add files via upload,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,47
+20190830,20190830,20190830,Kfarbman maintenance 20190828,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,46
+20190830,20190830,20190830,Add files via upload,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,45
+20190823,20190823,20190823,Close #256,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,44
+20190820,20190822,20190822,Kfarbman maintenance 20190820,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,43
+20190820,20190822,20190822,Close #240,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,42
+20190813,20190822,20190822,Add a new working_with_strings Jupyter notebook via upload,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,41
+20190812,20190813,20190813,Close #228,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,40
+20190812,20190812,20190812,updating to explain why SQL isn't taught yet,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,39
+20190809,20190809,20190809,for new classifications module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,38
+20190808,20190809,20190809,Close #211,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,37
+20190807,20190808,20190808,Kf maintenance 20190807,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,36
+20190807,20190807,20190807,updating assignment to be in md,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,35
+20190807,20190807,20190807,Close #202,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,34
+20190802,20190802,20190802,Updating JN and assets from DA into DS,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,33
+20190731,20190731,20190731,Kf maintenance 20190724,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,32
+20190730,20190730,20190730,intro to sqlalchemy is added,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,31
+20190709,20190710,20190710,Eo jupyter python grab for ds,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,30
+20190628,20190708,20190708,Add correlation p values,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,29
+20190619,20190619,20190619,Python - estimate confidence interval for a t-test,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,28
+20190616,20190617,20190617,some fixes,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,27
+20190613,20190614,20190614,Python visualizations - custom plots,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,26
+20190606,20190628,20190606,Add significance of correlations,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,25
+20190604,20190605,20190605,Aaron Fagan edits to model prep curriculum module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,24
+20190603,20190603,20190603,get updated versions,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,23
+20190531,20190531,20190531,5.31 GH Issues update,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,22
+20190531,20190603,20190603,Eo jupyter updates,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,21
+20190527,20190528,20190528,Fix typo,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,20
+20190526,20190528,20190528,Fix typo,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,19
+20190522,20190529,20190529,Python SQL - table names,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,18
+20190522,20190528,20190528,Update instructions on Inspect Element,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,17
+20190513,20190516,20190516,Feature/demo,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,16
+20190509,20190604,20190604,Id copy edits model prep,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,15
+20190420,20190617,20190617,Adds notebooks for new and improved clustering module,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,14
+20190407,20190408,20190408,Update 6.2.4 What can we learn from a network A guided example.ipynb,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,13
+20190301,20190522,20190522,Run codespell,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,12
+20190227,20190227,20190227,add ipynb directories to gitignore,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,11
+20190221,20190221,20190221,Add graphviz to requirements,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,10
+20190220,20190220,20190220,Install graphviz with conda,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,9
+20190219,20190522,20190219,Add wordcloud dependency,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,8
+20190219,20190219,20190219,Add config files via cat from inside the image,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,7
+20190215,20190215,20190215,Add data-201 and data-201-prep notebooks,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,6
+20190215,20190215,20190215,add psycopg2,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,5
+20190212,20190212,20190212,Trim requirements,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,4
+20190212,20190212,20190212,"Add requirements, example2 for testing",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,3
+20190212,20190212,20190212,"Add Dockerfile, remove test.ipynb",https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,2
+20190206,20190206,20190206,Add data-science notebooks,https://api.github.com/repos/Thinkful-Ed/jupyter-notebooks,1
+20200817,20200817,NaT,Close #1438,https://api.github.com/repos/Thinkful-Ed/data-science,1439
+20200816,20200817,NaT,[Film AND language tables?] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1438
+20200815,20200815,20200815,Copyedit 0811,https://api.github.com/repos/Thinkful-Ed/data-science,1437
+20200814,20200814,20200814,[Coefficient not explained] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1436
+20200814,20200817,NaT,[Where did coefficient come from?] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1435
+20200813,20200813,20200813,[Can't add colab app] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1434
+20200812,20200814,NaT,[k-means vs DBSCAN] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1433
+20200812,20200814,20200814,[Video says Data Analytics] User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1432
+20200812,20200814,20200814,[Unclear questions; question marked unanswered] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1431
+20200812,20200812,20200812,Copyedit 0804,https://api.github.com/repos/Thinkful-Ed/data-science,1430
+20200811,20200811,20200811,Update tc references to cblh,https://api.github.com/repos/Thinkful-Ed/data-science,1429
+20200811,20200812,20200812,[Learnosity correct answer question] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1428
+20200810,20200812,20200812,[Colab note] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1427
+20200810,20200812,NaT,[Unsure of answer - Learnosity] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1426
+20200810,20200810,NaT,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1425
+20200810,20200810,NaT,[TOTAL in PCA] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1424
+20200808,20200810,NaT,[Tf-idf assignment] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1423
+20200807,20200810,20200810,[Learnosity - MAX backers] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1422
+20200807,20200811,20200811,[Free lunch correlated w/ test score] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1421
+20200806,20200806,NaT,User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1420
+20200806,20200806,20200806,Close #1418,https://api.github.com/repos/Thinkful-Ed/data-science,1419
+20200806,20200806,20200806,[Which 3 sentences] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1418
+20200806,20200806,20200806,[Github API documentation] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1417
+20200805,20200806,20200806,[Missing Assignment] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1416
+20200805,20200806,20200806,[Endpoints confusion] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1415
+20200805,20200805,NaT,User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1414
+20200804,20200805,NaT,User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1413
+20200804,20200812,20200804,Copyedit 0729,https://api.github.com/repos/Thinkful-Ed/data-science,1412
+20200804,20200804,NaT,User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1411
+20200804,20200805,NaT,[Report a typo box acting weird] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1410
+20200804,20200804,20200804,[Number of questions - Learnosity] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1409
+20200803,20200804,20200804,[Broken z-test link] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1408
+20200803,20200803,NaT,User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1407
+20200802,20200803,20200803,[THIS IS A TEST - Learnosity] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1406
+20200801,20200803,20200803,[ThinkChat coaches not around] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1405
+20200730,20200804,20200804,[Learnosity - states not there] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1404
+20200730,20200730,20200730,Copyedit 0727,https://api.github.com/repos/Thinkful-Ed/data-science,1403
+20200729,20200803,NaT,[Unsupervised learning capstone info] User-submitted feedback for DSBC-CAPSTONE-UNSUPER-LEARN,https://api.github.com/repos/Thinkful-Ed/data-science,1402
+20200729,20200729,NaT,Repurpose videos from the product management course,https://api.github.com/repos/Thinkful-Ed/data-science,1401
+20200729,20200729,20200729,[Too much keyboard sound in videos] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1400
+20200729,20200729,20200729,User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1399
+20200728,20200803,NaT,[Extra SQL topics note] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1398
+20200728,20200803,20200803,[Python exam columns] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1397
+20200728,20200803,20200803,[SQL exam repetitive] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1396
+20200728,20200803,NaT,[Draw.io instructions] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1395
+20200728,20200729,20200729,[Data Analytics Department - SQL]Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1394
+20200728,20200729,NaT,[Re-shoot DS SQL connection screenshots]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1393
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1392
+20200728,20200729,20200729,[Empty question Learnosity] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1391
+20200728,20200728,NaT,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1390
+20200728,20200728,20200728,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1389
+20200728,20200728,20200728,[Web scraping selector] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1388
+20200728,20200728,NaT,[Question unclear] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1387
+20200727,20200727,20200727,Copyedit 0724,https://api.github.com/repos/Thinkful-Ed/data-science,1386
+20200727,20200803,20200803,[Submitted/accepted assignment showing unsubmitted] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1385
+20200726,20200727,20200727,[Metadata response count] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1384
+20200725,20200727,20200727,[tSNE] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1383
+20200725,20200727,20200727,[Assessment not loading] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1382
+20200725,20200727,20200727,[Pip list] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1381
+20200725,20200727,NaT,User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1380
+20200725,20200727,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1379
+20200725,20200803,20200803,[Completed checkpoint marked incomplete] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1378
+20200725,20200727,20200727,[2 identical jupyter notebooks] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1377
+20200724,20200725,20200724,Copyedit 0723,https://api.github.com/repos/Thinkful-Ed/data-science,1376
+20200724,20200725,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1375
+20200724,20200724,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1374
+20200724,20200724,20200724,[API key required?] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1373
+20200724,20200730,20200730,Student feedback for time series module,https://api.github.com/repos/Thinkful-Ed/data-science,1372
+20200724,20200724,20200724,[Assignment not displaying] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1371
+20200723,20200724,20200724,[Solution not normalizing] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1370
+20200723,20200727,20200727,[Divide by 255 (normalizing)] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1369
+20200723,20200811,NaT,QA for converting Python I-III into Qualified ,https://api.github.com/repos/Thinkful-Ed/data-science,1368
+20200723,20200724,NaT,[Mathematical notation not defined] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1367
+20200722,20200722,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1366
+20200721,20200721,NaT,Student feedback about model prep/outliers checkpoint,https://api.github.com/repos/Thinkful-Ed/data-science,1365
+20200720,20200721,20200721,Close #1356,https://api.github.com/repos/Thinkful-Ed/data-science,1364
+20200720,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1363
+20200718,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1362
+20200718,20200718,20200718,Copyedit 0716 careers,https://api.github.com/repos/Thinkful-Ed/data-science,1361
+20200717,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1360
+20200717,20200717,20200717,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1359
+20200717,20200720,20200720,[Drop redundant Colab instructions]  User-submitted feedback for DSBC-BIG-DATA-SPARK,https://api.github.com/repos/Thinkful-Ed/data-science,1358
+20200717,20200717,20200717,[Assessment not loading] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1357
+20200717,20200721,20200721,[Git commit on windows] User-submitted feedback for DS-GIT,https://api.github.com/repos/Thinkful-Ed/data-science,1356
+20200716,20200717,20200717,[Submitted link not showing] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1355
+20200716,20200717,20200717,[Assignment won't load] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1354
+20200716,20200716,20200716,Copyedit 0709,https://api.github.com/repos/Thinkful-Ed/data-science,1353
+20200716,20200720,20200720,[Question interpretation - closing with possibility of revisiting] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1352
+20200715,20200716,20200716,[Test] User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1351
+20200715,20200716,20200716,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1350
+20200715,20200716,20200716,[Duplicate video] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1349
+20200713,20200714,20200714,[Markdown Guide issue] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1348
+20200713,20200714,20200714,[Learnosity answer] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1347
+20200712,20200715,20200715,[ThinkChat box blocking notebook] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1346
+20200712,20200713,20200713,User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1345
+20200712,20200724,20200724,[Blank question in learnosity?] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1344
+20200711,20200713,20200713,[Have clause video] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1343
+20200711,20200711,NaT,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1342
+20200710,20200710,20200710,Close #1325,https://api.github.com/repos/Thinkful-Ed/data-science,1341
+20200709,20200709,20200709,[Markdown issue] User-submitted feedback for DSBC-SIMILARITY-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1340
+20200817,20200817,NaT,Close #1438,https://api.github.com/repos/Thinkful-Ed/data-science,1439
+20200816,20200817,NaT,[Film AND language tables?] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1438
+20200815,20200815,20200815,Copyedit 0811,https://api.github.com/repos/Thinkful-Ed/data-science,1437
+20200814,20200814,20200814,[Coefficient not explained] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1436
+20200814,20200817,NaT,[Where did coefficient come from?] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1435
+20200813,20200813,20200813,[Can't add colab app] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1434
+20200812,20200814,NaT,[k-means vs DBSCAN] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1433
+20200812,20200814,20200814,[Video says Data Analytics] User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1432
+20200812,20200814,20200814,[Unclear questions; question marked unanswered] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1431
+20200812,20200812,20200812,Copyedit 0804,https://api.github.com/repos/Thinkful-Ed/data-science,1430
+20200811,20200811,20200811,Update tc references to cblh,https://api.github.com/repos/Thinkful-Ed/data-science,1429
+20200811,20200812,20200812,[Learnosity correct answer question] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1428
+20200810,20200812,20200812,[Colab note] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1427
+20200810,20200812,NaT,[Unsure of answer - Learnosity] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1426
+20200810,20200810,NaT,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1425
+20200810,20200810,NaT,[TOTAL in PCA] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1424
+20200808,20200810,NaT,[Tf-idf assignment] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1423
+20200807,20200810,20200810,[Learnosity - MAX backers] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1422
+20200807,20200811,20200811,[Free lunch correlated w/ test score] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1421
+20200806,20200806,NaT,User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1420
+20200806,20200806,20200806,Close #1418,https://api.github.com/repos/Thinkful-Ed/data-science,1419
+20200806,20200806,20200806,[Which 3 sentences] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1418
+20200806,20200806,20200806,[Github API documentation] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1417
+20200805,20200806,20200806,[Missing Assignment] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1416
+20200805,20200806,20200806,[Endpoints confusion] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1415
+20200805,20200805,NaT,User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1414
+20200804,20200805,NaT,User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1413
+20200804,20200812,20200804,Copyedit 0729,https://api.github.com/repos/Thinkful-Ed/data-science,1412
+20200804,20200804,NaT,User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1411
+20200804,20200805,NaT,[Report a typo box acting weird] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1410
+20200804,20200804,20200804,[Number of questions - Learnosity] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1409
+20200803,20200804,20200804,[Broken z-test link] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1408
+20200803,20200803,NaT,User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1407
+20200802,20200803,20200803,[THIS IS A TEST - Learnosity] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1406
+20200801,20200803,20200803,[ThinkChat coaches not around] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1405
+20200730,20200804,20200804,[Learnosity - states not there] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1404
+20200730,20200730,20200730,Copyedit 0727,https://api.github.com/repos/Thinkful-Ed/data-science,1403
+20200729,20200803,NaT,[Unsupervised learning capstone info] User-submitted feedback for DSBC-CAPSTONE-UNSUPER-LEARN,https://api.github.com/repos/Thinkful-Ed/data-science,1402
+20200729,20200729,NaT,Repurpose videos from the product management course,https://api.github.com/repos/Thinkful-Ed/data-science,1401
+20200729,20200729,20200729,[Too much keyboard sound in videos] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1400
+20200729,20200729,20200729,User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1399
+20200728,20200803,NaT,[Extra SQL topics note] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1398
+20200728,20200803,20200803,[Python exam columns] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1397
+20200728,20200803,20200803,[SQL exam repetitive] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1396
+20200728,20200803,NaT,[Draw.io instructions] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1395
+20200728,20200729,20200729,[Data Analytics Department - SQL]Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1394
+20200728,20200729,NaT,[Re-shoot DS SQL connection screenshots]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1393
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-science,1392
+20200728,20200729,20200729,[Empty question Learnosity] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1391
+20200728,20200728,NaT,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1390
+20200728,20200728,20200728,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1389
+20200728,20200728,20200728,[Web scraping selector] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1388
+20200728,20200728,NaT,[Question unclear] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1387
+20200727,20200727,20200727,Copyedit 0724,https://api.github.com/repos/Thinkful-Ed/data-science,1386
+20200727,20200803,20200803,[Submitted/accepted assignment showing unsubmitted] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1385
+20200726,20200727,20200727,[Metadata response count] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1384
+20200725,20200727,20200727,[tSNE] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1383
+20200725,20200727,20200727,[Assessment not loading] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1382
+20200725,20200727,20200727,[Pip list] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1381
+20200725,20200727,NaT,User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1380
+20200725,20200727,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1379
+20200725,20200803,20200803,[Completed checkpoint marked incomplete] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1378
+20200725,20200727,20200727,[2 identical jupyter notebooks] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1377
+20200724,20200725,20200724,Copyedit 0723,https://api.github.com/repos/Thinkful-Ed/data-science,1376
+20200724,20200725,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1375
+20200724,20200724,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1374
+20200724,20200724,20200724,[API key required?] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1373
+20200724,20200730,20200730,Student feedback for time series module,https://api.github.com/repos/Thinkful-Ed/data-science,1372
+20200724,20200724,20200724,[Assignment not displaying] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1371
+20200723,20200724,20200724,[Solution not normalizing] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1370
+20200723,20200727,20200727,[Divide by 255 (normalizing)] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1369
+20200723,20200811,NaT,QA for converting Python I-III into Qualified ,https://api.github.com/repos/Thinkful-Ed/data-science,1368
+20200723,20200724,NaT,[Mathematical notation not defined] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1367
+20200722,20200722,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1366
+20200721,20200721,NaT,Student feedback about model prep/outliers checkpoint,https://api.github.com/repos/Thinkful-Ed/data-science,1365
+20200720,20200721,20200721,Close #1356,https://api.github.com/repos/Thinkful-Ed/data-science,1364
+20200720,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1363
+20200718,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1362
+20200718,20200718,20200718,Copyedit 0716 careers,https://api.github.com/repos/Thinkful-Ed/data-science,1361
+20200717,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1360
+20200717,20200717,20200717,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1359
+20200717,20200720,20200720,[Drop redundant Colab instructions]  User-submitted feedback for DSBC-BIG-DATA-SPARK,https://api.github.com/repos/Thinkful-Ed/data-science,1358
+20200717,20200717,20200717,[Assessment not loading] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1357
+20200717,20200721,20200721,[Git commit on windows] User-submitted feedback for DS-GIT,https://api.github.com/repos/Thinkful-Ed/data-science,1356
+20200716,20200717,20200717,[Submitted link not showing] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1355
+20200716,20200717,20200717,[Assignment won't load] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1354
+20200716,20200716,20200716,Copyedit 0709,https://api.github.com/repos/Thinkful-Ed/data-science,1353
+20200716,20200720,20200720,[Question interpretation - closing with possibility of revisiting] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1352
+20200715,20200716,20200716,[Test] User-submitted feedback for ds-flex-orientation,https://api.github.com/repos/Thinkful-Ed/data-science,1351
+20200715,20200716,20200716,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-science,1350
+20200715,20200716,20200716,[Duplicate video] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1349
+20200713,20200714,20200714,[Markdown Guide issue] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1348
+20200713,20200714,20200714,[Learnosity answer] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1347
+20200712,20200715,20200715,[ThinkChat box blocking notebook] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1346
+20200712,20200713,20200713,User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1345
+20200712,20200724,20200724,[Blank question in learnosity?] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1344
+20200711,20200713,20200713,[Have clause video] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1343
+20200711,20200711,NaT,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1342
+20200710,20200710,20200710,Close #1325,https://api.github.com/repos/Thinkful-Ed/data-science,1341
+20200709,20200709,20200709,[Markdown issue] User-submitted feedback for DSBC-SIMILARITY-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1340
+20200505,20200511,20200511,[No assignment to submit] User-submitted feedback for DSBC-BIG-DATA-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1139
+20200504,20200504,20200504,[Min/max definition - box plot] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1138
+20200503,20200508,20200508,[Highway vs city mileage] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1137
+20200503,20200504,20200504,[Sorting order] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1136
+20200502,20200502,20200502,[Interview Scheduling link not working] User-submitted feedback for DSBC-FINAL-CAPSTONE-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1135
+20200501,20200501,20200501,User-submitted feedback for DS-GIT,https://api.github.com/repos/Thinkful-Ed/data-science,1134
+20200430,20200430,20200430,Copyedit 0430 - 1,https://api.github.com/repos/Thinkful-Ed/data-science,1133
+20200430,20200430,20200430,Copyedit 0326,https://api.github.com/repos/Thinkful-Ed/data-science,1132
+20200429,20200429,20200429,[Duplicate paragraphs] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1131
+20200428,20200428,20200428,[Broken link - not a link] User-submitted feedback for DSBC-SQL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-science,1130
+20200428,20200503,20200503,Kfarbman maintenance 20200427,https://api.github.com/repos/Thinkful-Ed/data-science,1129
+20200425,20200426,20200426,Close #1119,https://api.github.com/repos/Thinkful-Ed/data-science,1128
+20200425,20200425,20200425,[Imperceptible GMM resizing] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1127
+20200425,20200425,20200425,[GMM resizing] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1126
+20200425,20200623,20200623,[Get_dummies examples] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1125
+20200425,20200426,20200426,[Link to website leads to download] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1124
+20200424,20200424,20200424,Add videos to start of ds,https://api.github.com/repos/Thinkful-Ed/data-science,1123
+20200424,20200426,20200426,[Typos in web scraping] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1122
+20200423,20200425,20200425,[Swapped axes in Confusion Matrix] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1121
+20200423,20200428,20200428,[Clean up solutions notebook]User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1120
+20200423,20200426,20200426,[Extra asterisks] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1119
+20200423,20200426,20200426,[Typo] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1118
+20200422,20200422,20200422,[Jupyter not working] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1117
+20200422,20200422,20200422,[Jupyter not working] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1116
+20200422,20200422,20200422,[Jupyter not working] User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1115
+20200422,20200422,20200422,[Jupyter not working] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1114
+20200422,20200423,20200423,[Jupyter not loading] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1113
+20200421,20200421,20200421,[Notebook won't open] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1112
+20200421,20200426,20200426,[Contingency Table not taught yet] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1111
+20200421,20200428,20200428,[Example solutions link not working] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1110
+20200420,20200426,20200426,[Submitted wrong link] User-submitted feedback for DSBC-PYTHON-SELF-SUFF,https://api.github.com/repos/Thinkful-Ed/data-science,1109
+20200420,20200424,20200424,Kfarbman maintenance 20200419,https://api.github.com/repos/Thinkful-Ed/data-science,1108
+20200419,20200424,20200424,[Challenge same as capstone?] User-submitted feedback for DSBC-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-science,1107
+20200419,20200424,20200424,[Remove Excel reference] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1106
+20200419,20200424,20200424,[3a should be 4a] User-submitted feedback for DSBC-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-science,1105
+20200419,20200424,20200424,[3 or 4 python modules] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1104
+20200418,20200418,20200418,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1103
+20200417,20200419,20200419,[Precision/Recall mix up] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1102
+20200417,20200419,20200419,[Summary vs About on LinkedIn] User-submitted feedback for DSBC-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-science,1101
+20200417,20200419,20200419,[We'll vs Well] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1100
+20200415,20200419,20200419,[Save vs Download notebook] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1099
+20200415,20200419,20200419,[Can't submit work] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1098
+20200414,20200419,20200419,[No assignment to submit] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1097
+20200414,20200419,20200419,[Confusing plot legend] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1096
+20200414,20200414,20200414,[Plot clarification needed] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1095
+20200414,20200426,20200426,[Course catalog typo] User-submitted feedback for DSF-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-science,1094
+20200414,20200419,20200419,"[Take out ""optional""] User-submitted feedback for DSBC-PYTHON-3",https://api.github.com/repos/Thinkful-Ed/data-science,1093
+20200413,20200515,20200515,[Clarify sections] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1092
+20200413,20200419,20200419,[S1 vs S2 in image] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1091
+20200413,20200419,20200419,Close #1079,https://api.github.com/repos/Thinkful-Ed/data-science,1090
+20200413,20200419,20200419,[Grammatical issues] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1089
+20200413,20200623,20200623,[Cluster relabeling incorrect] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1088
+20200412,20200503,20200503,[Duplicate paragraphs] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1087
+20200411,20200420,20200420,[Change sales_count name] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1086
+20200411,20200424,20200424,[Specify softmax used in activation function] User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1085
+20200411,20200426,20200426,[No guidance for Challenge] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1084
+20200411,20200604,NaT,[No guiding in guided example] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1083
+20200411,20200503,20200503,[Outdated TensorFlow] User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1082
+20200411,20200413,20200413,[They vs you] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1081
+20200410,20200426,20200426,[Paragraph break feedback] User-submitted feedback for DSBC-ROLE,https://api.github.com/repos/Thinkful-Ed/data-science,1080
+20200410,20200419,20200419,[Add RFC] User-submitted feedback for DSBC-BIG-DATA-SPARK,https://api.github.com/repos/Thinkful-Ed/data-science,1079
+20200410,20200411,20200411,Kfarbman maintenance 20200406,https://api.github.com/repos/Thinkful-Ed/data-science,1078
+20200410,20200426,20200426,[Proofread checkpoint] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1077
+20200409,20200424,20200424,[Lots of errors on web scraping] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1076
+20200409,20200428,20200428,[Out of date TensorFlow] User-submitted feedback for DSBC-TENSOR-FLOW,https://api.github.com/repos/Thinkful-Ed/data-science,1075
+20200409,20200419,20200419,[is vs are] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1074
+20200407,20200424,20200424,[Precision/Recall mix up] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1073
+20200406,20200411,20200411,[Grade vs feedback] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1072
+20200405,20200419,20200419,[DISTINCT field?] User-submitted feedback for DSBC-SQL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-science,1071
+20200405,20200411,20200411,[Repeated address] User-submitted feedback for DS-PHONE-SCREEN,https://api.github.com/repos/Thinkful-Ed/data-science,1070
+20200405,20200406,20200406,[That is vs those are] User-submitted feedback for DS-PHONE-SCREEN,https://api.github.com/repos/Thinkful-Ed/data-science,1069
+20200404,20200411,20200411,[Response typo] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1068
+20200404,20200419,20200419,[Lunch factors] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1067
+20200404,20200406,20200406,[Scatter typo] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1066
+20200403,20200403,20200403,[Set random seed] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1065
+20200403,20200404,20200404,[Solution requested] User-submitted feedback for DSBC-BOOSTING-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1064
+20200403,20200405,20200405,[Population typo] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1063
+20200403,20200404,20200404,[Show how to improve] User-submitted feedback for DSBC-BOOSTING-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1062
+20200402,20200404,20200404,[Consistently good models requested] User-submitted feedback for DSBC-BOOSTING-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1061
+20200402,20200404,20200404,[Bad dataset?] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1060
+20200402,20200412,20200412,[Can't submit] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1059
+20200402,20200403,20200403,[Better Wording needed] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1058
+20200401,20200405,20200405,[Columns typo] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1057
+20200401,20200405,20200405,[Scatter typo] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1056
+20200401,20200404,20200404,[Jupyter Notebook requested] User-submitted feedback for DSBC-ALGORITHMS-DATA-STRUCTURES,https://api.github.com/repos/Thinkful-Ed/data-science,1055
+20200401,20200405,20200405,[Shown typo] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1054
+20200401,20200404,20200404,[SVM code requested] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1053
+20200401,20200405,20200405,[Third misspelled] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1052
+20200401,20200405,20200405,[Different example answer questions] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1051
+20200331,20200404,20200404,[SVM visuals requested] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1050
+20200331,20200404,20200404,Close #1038,https://api.github.com/repos/Thinkful-Ed/data-science,1049
+20200331,20200419,20200419,[Italics not showing up] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1048
+20200331,20200331,20200331,[Change jobs to questions] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1047
+20200331,20200403,20200403,[Change jobs to questions] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1046
+20200331,20200405,20200405,[Change jobs to questions] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1045
+20200331,20200331,20200331,[Question.get_text] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1044
+20200330,20200403,20200403,[Assignment/solution difference] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1043
+20200330,20200404,20200404,[Submission Question] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1042
+20200330,20200404,20200404,[Nothing to submit] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1041
+20200329,20200405,20200405,"[Extra ""with""] User-submitted feedback for DSBC-RANDOM-FOREST",https://api.github.com/repos/Thinkful-Ed/data-science,1040
+20200603,20200810,20200810,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1239
+20200603,20200603,20200603,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1238
+20200602,20200615,20200615,Beyond A/B tests,https://api.github.com/repos/Thinkful-Ed/data-science,1237
+20200602,20200708,20200708,Beyond A/B tests,https://api.github.com/repos/Thinkful-Ed/data-science,1236
+20200602,20200702,NaT,Email marketing case study,https://api.github.com/repos/Thinkful-Ed/data-science,1235
+20200602,20200715,20200715,Performing a t-test,https://api.github.com/repos/Thinkful-Ed/data-science,1234
+20200602,20200615,20200615,Experimental design - 01 Performing a t-test,https://api.github.com/repos/Thinkful-Ed/data-science,1233
+20200602,20200615,20200615,Python for data scientists IV - 02 Data distributions,https://api.github.com/repos/Thinkful-Ed/data-science,1232
+20200601,20200620,20200620,[Curriculum order for dimensionality reduction] User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1231
+20200601,20200625,20200625,User-submitted feedback for DSBC-ROLE,https://api.github.com/repos/Thinkful-Ed/data-science,1230
+20200601,20200603,20200603,[Fix wording about threshold] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1229
+20200601,20200601,NaT,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1228
+20200530,20200601,20200601,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1227
+20200530,20200601,20200601,[Needs help with ThinkChat]  User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1226
+20200530,20200601,20200601,[Fix precision/recall conclusions] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1225
+20200530,20200601,NaT,[Poor wording - review checkpoint] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1224
+20200529,20200529,20200529,[Explain I in ARIMA] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1223
+20200529,20200601,20200601,Update cur,https://api.github.com/repos/Thinkful-Ed/data-science,1222
+20200529,20200603,20200603,[Swap the scores]  User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1221
+20200529,20200603,20200603,[Incorrect MA score]  User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1220
+20200529,20200601,20200601,Splitting long gif into three shorter gifs.,https://api.github.com/repos/Thinkful-Ed/data-science,1219
+20200529,20200615,20200615,[More explanation needed]  User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1218
+20200529,20200529,NaT,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1217
+20200529,20200529,NaT,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1216
+20200529,20200529,20200529,User-submitted feedback for DSBC-NETWORKING,https://api.github.com/repos/Thinkful-Ed/data-science,1215
+20200529,20200529,NaT,[Clustering challenge unhelpful]  User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1214
+20200528,20200609,NaT,[Challenge needs more context ]  User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1213
+20200528,20200612,20200612,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1212
+20200528,20200601,20200601,[Set random seed] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1211
+20200528,20200529,NaT,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1210
+20200528,20200706,20200706,Add videos from da,https://api.github.com/repos/Thinkful-Ed/data-science,1209
+20200528,20200528,20200528,Adding description that covers the elbow method,https://api.github.com/repos/Thinkful-Ed/data-science,1208
+20200528,20200528,20200528,Copyedit 0526,https://api.github.com/repos/Thinkful-Ed/data-science,1207
+20200527,20200527,20200527,[No place for link] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1206
+20200527,20200527,20200527,Add videos to start of ds,https://api.github.com/repos/Thinkful-Ed/data-science,1205
+20200527,20200527,20200527,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1204
+20200527,20200609,20200609,[Can't see earlier work]  User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1203
+20200526,20200527,NaT,[Further explain k-fold]  User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1202
+20200526,20200526,NaT,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1201
+20200526,20200625,20200625,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1200
+20200526,20200625,20200625,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1199
+20200526,20200710,20200710,[Notebook Validation Errors] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1198
+20200526,20200526,20200526,User-submitted feedback for DSBC-INTERVIEWING,https://api.github.com/repos/Thinkful-Ed/data-science,1197
+20200526,20200526,20200526,User-submitted feedback for DSBC-INTERVIEWING,https://api.github.com/repos/Thinkful-Ed/data-science,1196
+20200525,20200526,20200526,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1195
+20200523,20200616,20200616,[We need to move the SQLAlchemy/Pandas stuff around]  User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1194
+20200523,20200526,20200526,[Incorrect answer learnosity] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1193
+20200522,20200526,20200526,[Database or CSV?] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1192
+20200522,20200526,20200526,[Issues w Autograding]  User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1191
+20200522,20200527,NaT,Curric. maintenance for SL Similiarities module,https://api.github.com/repos/Thinkful-Ed/data-science,1190
+20200522,20200527,NaT,Curric. maintenance for SL Similarity module,https://api.github.com/repos/Thinkful-Ed/data-science,1189
+20200522,20200522,20200522,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1188
+20200522,20200522,20200522,User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1187
+20200522,20200522,20200522,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1186
+20200522,20200625,20200625,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1185
+20200522,20200522,NaT,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1184
+20200522,20200522,NaT,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1183
+20200522,20200522,NaT,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1182
+20200521,20200521,20200521,[Python subscription answer] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1181
+20200521,20200521,20200521,[Kurtosis limit] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1180
+20200521,20200521,NaT,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1179
+20200521,20200521,NaT,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1178
+20200521,20200521,20200521,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1177
+20200521,20200521,20200521,User-submitted feedback for DSBC-ORIENTATION-DSI,https://api.github.com/repos/Thinkful-Ed/data-science,1176
+20200520,20200520,20200520,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1175
+20200520,20200520,20200520,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1174
+20200520,20200717,20200717,[Explaining variable types]  User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1173
+20200520,20200521,20200521,[Missing SQL drills] User-submitted feedback for DSBC-SQL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-science,1172
+20200520,20200521,20200521,[Assignment not visible] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1171
+20200519,20200520,20200520,[Can't see p-values] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1170
+20200519,20200601,20200601,Learnosity specializations,https://api.github.com/repos/Thinkful-Ed/data-science,1169
+20200519,20200601,20200601,git_basics updated,https://api.github.com/repos/Thinkful-Ed/data-science,1168
+20200519,20200526,20200526,[Incorrect questions/answers] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1167
+20200519,20200519,20200519,[States missing from graph] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1166
+20200519,20200519,20200519,User-submitted feedback for DSBC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-science,1165
+20200519,20200519,20200519,User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1164
+20200518,20200519,20200519,User-submitted feedback for DSBC-ROLE,https://api.github.com/repos/Thinkful-Ed/data-science,1163
+20200518,20200518,20200518,Release Learnosity questions in fundamentals modules,https://api.github.com/repos/Thinkful-Ed/data-science,1162
+20200516,20200517,20200517,User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1161
+20200516,20200516,NaT,[Missing label in graph - Learnosity] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1160
+20200515,20200516,NaT,[Range issue in Learnosity] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1159
+20200515,20200516,20200516,[No Technical Landscape checkpoint] User-submitted feedback for DSBC-NETWORKING,https://api.github.com/repos/Thinkful-Ed/data-science,1158
+20200514,20200515,20200515,[Autograder messy formatting] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1157
+20200514,20200521,20200521,Close #1155,https://api.github.com/repos/Thinkful-Ed/data-science,1156
+20200514,20200521,20200521,[Schedule phone screen wording] User-submitted feedback for DS-PHONE-SCREEN,https://api.github.com/repos/Thinkful-Ed/data-science,1155
+20200513,20200513,20200513,[Browser/checkpoint confusion] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1154
+20200512,20200512,20200512,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1153
+20200512,20200512,20200512,[Learnosity - dataset issue] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1152
+20200512,20200526,20200526,[Add alt text to images] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1151
+20200512,20200520,20200520,"[Extra ""has""] User-submitted feedback for DSBC-1-CAPSTONE-EXP-DES",https://api.github.com/repos/Thinkful-Ed/data-science,1150
+20200512,20200520,20200520,[Typo in cold outreach] User-submitted feedback for DSBC-NETWORKING,https://api.github.com/repos/Thinkful-Ed/data-science,1149
+20200511,20200618,20200618,[Notebook validation failed] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1148
+20200510,20200511,20200511,[Distribution of outcome variable or features?] User-submitted feedback for DSBC-CLASSIFICATION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1147
+20200509,20200511,20200511,[Question 1 wording] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1146
+20200508,20200511,20200511,[Final capstone wording] User-submitted feedback for DSBC-FINAL-CAPSTONE-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1145
+20200507,20200516,20200516,[Typo in problem 7] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1144
+20200507,20200516,NaT,[Data Analytics graphics in pgAdmin] User-submitted feedback for DSBC-SQL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-science,1143
+20200506,20200506,20200506,Copyedit 0505,https://api.github.com/repos/Thinkful-Ed/data-science,1142
+20200505,20200511,20200511,[Skew in sum of distributions?] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1141
+20200505,20200511,20200511,Learnosity machine learning,https://api.github.com/repos/Thinkful-Ed/data-science,1140
+20200709,20200709,20200709,Update content.md in DS. Will do the same in DA.,https://api.github.com/repos/Thinkful-Ed/data-science,1339
+20200709,20200709,20200709,[Module error] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1338
+20200709,20200709,20200709,[Assignment won't load] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1337
+20200709,20200709,20200709,[Module error] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1336
+20200709,20200709,20200709,[Module error] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1335
+20200709,20200709,20200709,[Module error] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1334
+20200709,20200709,20200709,[Can't check complete] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1333
+20200709,20200709,20200709,[Assignment won't load - error] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1332
+20200709,20200709,20200709,[Assignment won't load] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1331
+20200709,20200709,20200709,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1330
+20200708,20200709,20200709,[Module error] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1329
+20200708,20200709,20200709,[Module error] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1328
+20200708,20200709,20200709,[Module error] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1327
+20200708,20200709,20200709,Close #1324,https://api.github.com/repos/Thinkful-Ed/data-science,1326
+20200708,20200710,20200710,[Big O Notation link] User-submitted feedback for DSBC-ALGORITHMS-DATA-STRUCTURES,https://api.github.com/repos/Thinkful-Ed/data-science,1325
+20200708,20200709,20200709,[Markdown issue] User-submitted feedback for DSBC-ALGORITHMS-DATA-STRUCTURES,https://api.github.com/repos/Thinkful-Ed/data-science,1324
+20200708,20200803,20200803,[Precision/Recall still wrong] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1323
+20200706,20200708,20200708,[Bad formatting in checkpoint - Learnosity] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1322
+20200706,20200706,20200706,[Not submitting] User-submitted feedback for DSBC-SIMILARITY-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1321
+20200706,20200803,20200803,Student feedback about KNN classifiers current assignment,https://api.github.com/repos/Thinkful-Ed/data-science,1320
+20200705,20200706,20200706,[Missing values question - Learnosity] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1319
+20200704,20200706,20200706,[See correct answers to auto graded questions] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1318
+20200703,20200706,20200706,[Connecting to SQL server] User-submitted feedback for DSBC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-science,1317
+20200702,20200702,20200702,[Kick tires]  User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1316
+20200702,20200702,20200702,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1315
+20200701,20200701,20200701,[Submission not working] User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1314
+20200629,20200629,20200629,Add information about objects and modules,https://api.github.com/repos/Thinkful-Ed/data-science,1313
+20200629,20200629,20200629,[Code doesn't run] User-submitted feedback for DSBC-NLP,https://api.github.com/repos/Thinkful-Ed/data-science,1312
+20200628,20200714,20200714,[Notebook errors and warnings] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1311
+20200628,20200629,NaT,User-submitted feedback for DSBC-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-science,1310
+20200628,20200706,20200706,[NLTK error] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1309
+20200628,20200706,20200706,[df.head() not showing] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1308
+20200628,20200629,NaT,[Chances of false positive] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1307
+20200628,20200706,20200706,[tfidf appearance] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1306
+20200628,20200629,NaT,[Learnosity typos] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1305
+20200628,20200629,NaT,[Learnosity typo] User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1304
+20200627,20200629,20200629,[Break one paragraph into two] User-submitted feedback for DSBC-SUPPORT-VECTOR-MACHINES,https://api.github.com/repos/Thinkful-Ed/data-science,1303
+20200627,20200629,20200629,[Task not clear] User-submitted feedback for DSBC-RANDOM-FOREST,https://api.github.com/repos/Thinkful-Ed/data-science,1302
+20200626,20200731,20200731,[Notebooks losing connection] User-submitted feedback for DSBC-BIG-DATA-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1301
+20200626,20200626,NaT,Student feedback about regression,https://api.github.com/repos/Thinkful-Ed/data-science,1300
+20200626,20200626,NaT,Student feedback about PCA,https://api.github.com/repos/Thinkful-Ed/data-science,1299
+20200626,20200626,NaT,Student feedback about solving regression problems,https://api.github.com/repos/Thinkful-Ed/data-science,1298
+20200625,20200717,20200717,Issue with Dask module,https://api.github.com/repos/Thinkful-Ed/data-science,1297
+20200625,20200629,20200629,[Naive Bayes missing?] User-submitted feedback for DSBC-SIMILARITY-MODELS,https://api.github.com/repos/Thinkful-Ed/data-science,1296
+20200625,20200721,20200721,updated markdown for auto-assessments,https://api.github.com/repos/Thinkful-Ed/data-science,1295
+20200625,20200629,20200629,[Lots of errors with NLTK and spacy] User-submitted feedback for DSBC-NLP,https://api.github.com/repos/Thinkful-Ed/data-science,1294
+20200624,20200625,NaT,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1293
+20200624,20200803,NaT,[Infographic hard to read] User-submitted feedback for DSBC-MODEL-PREP,https://api.github.com/repos/Thinkful-Ed/data-science,1292
+20200623,20200624,20200624,[Scrapy not importing] User-submitted feedback for DSBC-WEB-SCRAPING,https://api.github.com/repos/Thinkful-Ed/data-science,1291
+20200623,20200702,NaT,User-submitted feedback for DSBC-CLUSTER,https://api.github.com/repos/Thinkful-Ed/data-science,1290
+20200623,20200623,20200623,Release new careers modules,https://api.github.com/repos/Thinkful-Ed/data-science,1289
+20200622,20200803,NaT,[Redundant problem] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1288
+20200622,20200623,20200623,[Redundant sentence] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1287
+20200622,20200709,20200709,[Incorrect Markov state explanation] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1286
+20200622,20200622,NaT,User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1285
+20200622,20200622,20200622,[No assignment] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1284
+20200622,20200623,20200623,[Coefficients not defined] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1283
+20200622,20200622,20200622,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1282
+20200622,20200622,NaT,[R2 in question before mentioned in text] User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1281
+20200622,20200622,NaT,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1280
+20200620,20200622,20200622,[See no assignment] User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1279
+20200619,20200619,NaT,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1278
+20200619,20200619,NaT,User-submitted feedback for DSBC-REGRESSION-PROBLEMS,https://api.github.com/repos/Thinkful-Ed/data-science,1277
+20200619,20200716,20200716,Feedback from student about neural networks che,https://api.github.com/repos/Thinkful-Ed/data-science,1276
+20200618,20200618,20200618,User-submitted feedback for DSBC-NLP-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1275
+20200618,20200618,20200618,[Confidence interval confusion] User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1274
+20200617,20200619,20200619,Close #1271,https://api.github.com/repos/Thinkful-Ed/data-science,1273
+20200617,20200618,NaT,[Technical Coaching -> ThinkChat] User-submitted feedback for DSF-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-science,1272
+20200617,20200619,20200619,[Make headings clearer] User-submitted feedback for DSBC-SQL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-science,1271
+20200616,20200618,20200618,[Educator can't see questions] User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1270
+20200616,20200619,20200619,User-submitted feedback for DSBC-WEB-SCRAPING,https://api.github.com/repos/Thinkful-Ed/data-science,1269
+20200616,20200616,20200616,User-submitted feedback for DSBC-WEB-SCRAPING,https://api.github.com/repos/Thinkful-Ed/data-science,1268
+20200616,20200619,20200619,User-submitted feedback for DSBC-WEB-SCRAPING,https://api.github.com/repos/Thinkful-Ed/data-science,1267
+20200616,20200616,NaT,Issue with model prep autograding,https://api.github.com/repos/Thinkful-Ed/data-science,1266
+20200615,20200625,20200625,User-submitted feedback for DSBC-EXP-DES-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1265
+20200614,20200625,20200625,User-submitted feedback for DSBC-BIG-DATA,https://api.github.com/repos/Thinkful-Ed/data-science,1264
+20200614,20200619,20200619,[Notebook Validation Error] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1263
+20200614,20200629,NaT,[Unclear checkpoint] User-submitted feedback for DSBC-TIME-SERIES,https://api.github.com/repos/Thinkful-Ed/data-science,1262
+20200614,20200619,20200619,[Old documentation link] User-submitted feedback for DSBC-PYTHON-4,https://api.github.com/repos/Thinkful-Ed/data-science,1261
+20200613,20200614,NaT,User-submitted feedback for DSBC-CLASSIFICATIONS,https://api.github.com/repos/Thinkful-Ed/data-science,1260
+20200613,20200614,NaT,User-submitted feedback for DSBC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-science,1259
+20200612,20200612,20200612,User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1258
+20200611,20200625,20200625,User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1257
+20200611,20200612,NaT,[Graphic cut off] User-submitted feedback for DSBC-WAY-OF-DATA-SCIENTIST,https://api.github.com/repos/Thinkful-Ed/data-science,1256
+20200611,20200721,20200721,[Python dicts ordered now] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1255
+20200610,20200615,20200615,Close #1233,https://api.github.com/repos/Thinkful-Ed/data-science,1254
+20200610,20200626,20200626,[No venues from Foursquare] User-submitted feedback for DSBC-BIG-DATA-SPARK,https://api.github.com/repos/Thinkful-Ed/data-science,1253
+20200609,20200611,20200611,[Database not working]  User-submitted feedback for DSBC-SQL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-science,1252
+20200609,20200615,20200615,[Define convergence/divergence] User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1251
+20200609,20200615,20200615,[Google colab issue] User-submitted feedback for DSBC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-science,1250
+20200609,20200609,20200609,User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1249
+20200608,20200609,20200609,[Submitting link] User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1248
+20200608,20200608,NaT,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1247
+20200608,20200610,20200610,[Hinge loss function explanation] User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1246
+20200608,20200608,NaT,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1245
+20200608,20200625,20200625,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1244
+20200608,20200608,20200608,User-submitted feedback for DSBC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-science,1243
+20200606,20200625,20200625,User-submitted feedback for DSBC-DEEP-LEARNING,https://api.github.com/repos/Thinkful-Ed/data-science,1242
+20200604,20200605,20200605,[Problem submitting work] User-submitted feedback for DSF-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-science,1241
+20200604,20200803,NaT,[Final capstone rubric issues] User-submitted feedback for DSBC-FINAL-CAPSTONE-V2,https://api.github.com/repos/Thinkful-Ed/data-science,1240
+20200817,20200817,NaT,Do not use SQLAlchemy in the Manipulating DataFrames checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1382
+20200817,20200817,NaT,Add Example for 2.3.A for familiarize yourself with raw data,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1381
+20200817,20200817,NaT,Update PivotTables deck content examples,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1380
+20200817,20200817,NaT,User-submitted feedback for da-careers-personal-branding,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1379
+20200817,20200817,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1378
+20200817,20200817,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1377
+20200817,20200817,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1376
+20200816,20200816,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1375
+20200815,20200815,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1374
+20200815,20200815,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1373
+20200814,20200814,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1372
+20200814,20200814,NaT,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1371
+20200814,20200814,NaT,Use a different DAI activity for descriptive statistics practice -- Excel,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1370
+20200814,20200814,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1369
+20200813,20200813,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1368
+20200813,20200813,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1367
+20200813,20200813,NaT,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1366
+20200813,20200813,NaT,Student feedback for UNION checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1365
+20200813,20200813,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1364
+20200813,20200814,20200814,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1363
+20200812,20200812,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1362
+20200812,20200812,20200812,Dai prep,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1361
+20200812,20200812,NaT,Feedback for analyzing retail sales/Tableau,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1360
+20200812,20200817,NaT,Retail data exploration Excel feedback,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1359
+20200812,20200812,NaT,Instructor feedback for retail sales/Excel wrangling,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1358
+20200811,20200811,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1357
+20200811,20200811,NaT,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1356
+20200811,20200811,20200811,Update tc references to cblh,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1355
+20200811,20200814,20200814,User-submitted feedback for DABC-CAREERS-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1354
+20200810,20200814,NaT,[unable to load error]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1353
+20200810,20200814,20200814,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1352
+20200810,20200817,20200814,[update join screencast]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1351
+20200809,20200814,20200814,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1350
+20200809,20200814,20200814,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1349
+20200808,20200813,20200813,[Dup #1337]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1348
+20200808,20200813,20200813,[Dup #1333]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1347
+20200807,20200813,20200813,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1346
+20200807,20200813,20200813,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1345
+20200806,20200813,NaT,[tableau calc error]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1344
+20200806,20200806,NaT,Question about Tableau 1 challenge assignment item 4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1343
+20200805,20200812,20200812,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1342
+20200805,20200814,NaT,[clarify tableau public workbook]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1341
+20200805,20200812,20200812,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1340
+20200804,20200812,20200812,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1339
+20200804,20200806,20200806,[Duplicate of 1337]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1338
+20200804,20200810,20200810,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1337
+20200804,20200806,20200806,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1336
+20200804,20200804,20200804,Dai python update,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1335
+20200804,20200806,20200806,User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1334
+20200804,20200806,NaT,[Auto-Grade typo] User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1333
+20200804,20200806,20200806,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1332
+20200804,20200806,20200806,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1331
+20200804,20200805,NaT,[typo in question]User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1330
+20200803,20200805,20200805,User-submitted feedback for DABC-CAREERS-JOBS,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1329
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1328
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1327
+20200803,20200805,20200805,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1326
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1325
+20200731,20200731,NaT,Re-style the JOINs syntax in SQL Foundations III exercises,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1324
+20200731,20200731,20200731,[Text change-incorrect]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1323
+20200730,20200731,20200731,[incorrect sheet reference]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1322
+20200730,20200731,NaT,Improvements to Excel Foundations IV checkpoints,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1321
+20200730,20200731,20200731,[non-curriculum/grading question]User-submitted feedback for DABC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1320
+20200730,20200730,20200730,Fix issue,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1319
+20200730,20200730,20200730,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1318
+20200730,20200730,NaT,[VSCode installation]  User-submitted feedback for DABC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1317
+20200729,20200729,NaT,Repurposing product management videos for DA. ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1316
+20200729,20200729,20200729,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1315
+20200729,20200729,NaT,[Conditional logic misdirection]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1314
+20200729,20200803,NaT,[How do meetups work during the virus]  User-submitted feedback for da-careers-networking,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1313
+20200728,20200803,20200803,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1312
+20200728,20200803,20200803,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1311
+20200728,20200812,20200812,[Fix upload file]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1310
+20200728,20200728,NaT,[Confusing question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1309
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1308
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1307
+20200728,20200728,20200728,Move introducing pandas assignment to manipulating DataFrames checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1306
+20200728,20200728,20200728,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1305
+20200727,20200727,20200727,Reference branch,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1304
+20200727,20200728,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1303
+20200727,20200728,NaT,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1302
+20200727,20200727,20200727,Excel file upload,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1301
+20200727,20200727,20200727,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1300
+20200727,20200728,20200728,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1299
+20200727,20200727,20200727,Instructor feedback for SQL Assessments,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1298
+20200727,20200728,20200728,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1297
+20200726,20200726,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1296
+20200725,20200725,20200725,Copyedit 0720 quickreview,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1295
+20200724,20200728,20200728,[Reword an autograd question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1294
+20200724,20200810,NaT,[Fix file upload]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1293
+20200724,20200724,20200724,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1292
+20200723,20200726,20200726,[rewrite another drill question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1291
+20200723,20200726,20200726,[rewrite drill question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1290
+20200723,20200724,20200724,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1289
+20200723,20200814,NaT,Convert Python I-III checkpoints for Qualified autograding ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1288
+20200723,20200724,20200724,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1287
+20200723,20200731,NaT,[Remove HAVING from exercise]  User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1286
+20200723,20200727,20200727,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1285
+20200722,20200722,20200722,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1284
+20200722,20200726,20200726,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1283
+20200817,20200817,NaT,Do not use SQLAlchemy in the Manipulating DataFrames checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1382
+20200817,20200817,NaT,Add Example for 2.3.A for familiarize yourself with raw data,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1381
+20200817,20200817,NaT,Update PivotTables deck content examples,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1380
+20200817,20200817,NaT,User-submitted feedback for da-careers-personal-branding,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1379
+20200817,20200817,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1378
+20200817,20200817,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1377
+20200817,20200817,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1376
+20200816,20200816,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1375
+20200815,20200815,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1374
+20200815,20200815,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1373
+20200814,20200814,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1372
+20200814,20200814,NaT,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1371
+20200814,20200814,NaT,Use a different DAI activity for descriptive statistics practice -- Excel,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1370
+20200814,20200814,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1369
+20200813,20200813,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1368
+20200813,20200813,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1367
+20200813,20200813,NaT,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1366
+20200813,20200813,NaT,Student feedback for UNION checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1365
+20200813,20200813,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1364
+20200813,20200814,20200814,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1363
+20200812,20200812,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1362
+20200812,20200812,20200812,Dai prep,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1361
+20200812,20200812,NaT,Feedback for analyzing retail sales/Tableau,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1360
+20200812,20200817,NaT,Retail data exploration Excel feedback,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1359
+20200812,20200812,NaT,Instructor feedback for retail sales/Excel wrangling,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1358
+20200811,20200811,NaT,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1357
+20200811,20200811,NaT,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1356
+20200811,20200811,20200811,Update tc references to cblh,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1355
+20200811,20200814,20200814,User-submitted feedback for DABC-CAREERS-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1354
+20200810,20200814,NaT,[unable to load error]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1353
+20200810,20200814,20200814,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1352
+20200810,20200817,20200814,[update join screencast]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1351
+20200809,20200814,20200814,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1350
+20200809,20200814,20200814,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1349
+20200808,20200813,20200813,[Dup #1337]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1348
+20200808,20200813,20200813,[Dup #1333]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1347
+20200807,20200813,20200813,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1346
+20200807,20200813,20200813,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1345
+20200806,20200813,NaT,[tableau calc error]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1344
+20200806,20200806,NaT,Question about Tableau 1 challenge assignment item 4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1343
+20200805,20200812,20200812,User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1342
+20200805,20200814,NaT,[clarify tableau public workbook]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1341
+20200805,20200812,20200812,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1340
+20200804,20200812,20200812,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1339
+20200804,20200806,20200806,[Duplicate of 1337]User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1338
+20200804,20200810,20200810,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1337
+20200804,20200806,20200806,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1336
+20200804,20200804,20200804,Dai python update,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1335
+20200804,20200806,20200806,User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1334
+20200804,20200806,NaT,[Auto-Grade typo] User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1333
+20200804,20200806,20200806,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1332
+20200804,20200806,20200806,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1331
+20200804,20200805,NaT,[typo in question]User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1330
+20200803,20200805,20200805,User-submitted feedback for DABC-CAREERS-JOBS,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1329
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1328
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1327
+20200803,20200805,20200805,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1326
+20200803,20200805,20200805,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1325
+20200731,20200731,NaT,Re-style the JOINs syntax in SQL Foundations III exercises,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1324
+20200731,20200731,20200731,[Text change-incorrect]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1323
+20200730,20200731,20200731,[incorrect sheet reference]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1322
+20200730,20200731,NaT,Improvements to Excel Foundations IV checkpoints,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1321
+20200730,20200731,20200731,[non-curriculum/grading question]User-submitted feedback for DABC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1320
+20200730,20200730,20200730,Fix issue,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1319
+20200730,20200730,20200730,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1318
+20200730,20200730,NaT,[VSCode installation]  User-submitted feedback for DABC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1317
+20200729,20200729,NaT,Repurposing product management videos for DA. ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1316
+20200729,20200729,20200729,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1315
+20200729,20200729,NaT,[Conditional logic misdirection]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1314
+20200729,20200803,NaT,[How do meetups work during the virus]  User-submitted feedback for da-careers-networking,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1313
+20200728,20200803,20200803,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1312
+20200728,20200803,20200803,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1311
+20200728,20200812,20200812,[Fix upload file]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1310
+20200728,20200728,NaT,[Confusing question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1309
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1308
+20200728,20200729,20200729,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1307
+20200728,20200728,20200728,Move introducing pandas assignment to manipulating DataFrames checkpoint,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1306
+20200728,20200728,20200728,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1305
+20200727,20200727,20200727,Reference branch,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1304
+20200727,20200728,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1303
+20200727,20200728,NaT,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1302
+20200727,20200727,20200727,Excel file upload,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1301
+20200727,20200727,20200727,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1300
+20200727,20200728,20200728,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1299
+20200727,20200727,20200727,Instructor feedback for SQL Assessments,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1298
+20200727,20200728,20200728,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1297
+20200726,20200726,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1296
+20200725,20200725,20200725,Copyedit 0720 quickreview,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1295
+20200724,20200728,20200728,[Reword an autograd question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1294
+20200724,20200810,NaT,[Fix file upload]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1293
+20200724,20200724,20200724,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1292
+20200723,20200726,20200726,[rewrite another drill question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1291
+20200723,20200726,20200726,[rewrite drill question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1290
+20200723,20200724,20200724,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1289
+20200723,20200814,NaT,Convert Python I-III checkpoints for Qualified autograding ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1288
+20200723,20200724,20200724,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1287
+20200723,20200731,NaT,[Remove HAVING from exercise]  User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1286
+20200723,20200727,20200727,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1285
+20200722,20200722,20200722,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1284
+20200722,20200726,20200726,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1283
+20200521,20200523,20200523,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1082
+20200520,20200521,20200521,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1081
+20200520,20200526,20200526,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1080
+20200520,20200520,20200520,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1079
+20200519,20200519,20200519,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1078
+20200519,20200519,20200519,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1077
+20200519,20200519,20200519,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1076
+20200519,20200526,20200526,Learnosity research/Python release ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1075
+20200518,20200519,20200519,User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1074
+20200518,20200520,20200520,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1073
+20200518,20200518,20200518,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1072
+20200517,20200518,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1071
+20200517,20200523,20200523,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1070
+20200517,20200517,20200517,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1069
+20200517,20200517,20200517,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1068
+20200516,20200516,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1067
+20200515,20200515,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1066
+20200515,20200526,20200526,User-submitted feedback for DABC-PYTHON-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1065
+20200515,20200516,20200516,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1064
+20200515,20200516,20200516,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1063
+20200515,20200515,20200515,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1062
+20200515,20200515,NaT,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1061
+20200515,20200526,20200526,[Problem seeing student's submission]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1060
+20200514,20200515,20200515,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1059
+20200514,20200515,20200515,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1058
+20200514,20200515,20200515,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1057
+20200514,20200514,20200514,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1056
+20200514,20200515,20200515,[Student can't submit assignment]  User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1055
+20200514,20200514,20200514,Copyedit 0504,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1054
+20200514,20200514,20200514,Copyedit 0504,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1053
+20200513,20200513,20200513,Patch add 2020 screenshot,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1052
+20200513,20200513,20200513,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1051
+20200513,20200514,20200514,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1050
+20200513,20200514,20200514,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1049
+20200513,20200529,20200529,[Data is lost on human assigned work]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1048
+20200513,20200513,20200513,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1047
+20200513,20200722,20200513,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1046
+20200513,20200513,20200513,Patch tableau joins 2020.2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1045
+20200512,20200513,20200513,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1044
+20200512,20200513,20200513,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1043
+20200512,20200512,20200512,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1042
+20200512,20200512,20200512,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1041
+20200512,20200512,20200512,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1040
+20200512,20200512,20200512,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1039
+20200511,20200512,20200512,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1038
+20200511,20200511,20200511,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1037
+20200510,20200515,20200515,[Can't select different submission types]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1036
+20200510,20200511,20200511,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1035
+20200507,20200512,20200512,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1034
+20200507,20200511,20200511,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1033
+20200507,20200523,20200523,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1032
+20200507,20200523,20200523,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1031
+20200507,20200507,20200507,Testing,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1030
+20200507,20200507,20200507,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1029
+20200507,20200507,20200507,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1028
+20200507,20200507,20200507,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1027
+20200507,20200507,20200507,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1026
+20200506,20200714,20200714,[Stats don't match]  User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1025
+20200506,20200507,20200507,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1024
+20200505,20200517,20200517,Add scroll jumps,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1023
+20200505,20200728,20200728,[Cells are not formatted right]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1022
+20200505,20200505,20200505,Add sumproduct screenshots. ,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1021
+20200505,20200505,20200505,User-submitted feedback for DABC-CAPSTONE-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1020
+20200504,20200504,20200504,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1019
+20200504,20200504,20200504,Release learnosity for tableau,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1018
+20200504,20200504,20200504,removes assignments to replace with learnosity,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1017
+20200504,20200504,20200504,removes assignments to replace with learnosity,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1016
+20200504,20200507,20200507,[Typo in solutions file]User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1015
+20200504,20200504,20200504,removes assignments to replace with learnosity,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1014
+20200504,20200504,20200504,Learnosity sql tableau release,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1013
+20200504,20200505,20200505,[Wrong keyboard shortcut]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1012
+20200503,20200505,20200505,[Mistake with video explanation]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1011
+20200503,20200504,20200504,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1010
+20200503,20200526,20200526,[Where is the button to submit?]   User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1009
+20200502,20200516,20200516,[Help w careers keywords]  User-submitted feedback for DABC-CAREERS-JOBS,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1008
+20200429,20200504,20200504,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1007
+20200429,20200505,20200505,[Number of arguments taken]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1006
+20200429,20200505,20200505,[Unclear autograding question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1005
+20200429,20200505,20200505,[Explain drill q better]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1004
+20200429,20200515,20200515,[Jupyter rebuild]  User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1003
+20200429,20200505,20200505,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1002
+20200428,20200505,20200505,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1001
+20200428,20200505,20200505,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1000
+20200428,20200505,20200505,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,999
+20200428,20200505,20200505,[Connection instructions unclear]  User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,998
+20200428,20200505,20200505,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,997
+20200428,20200505,20200505,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,996
+20200427,20200505,20200505,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,995
+20200426,20200517,20200517,[Scoll to sections]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,994
+20200426,20200505,20200505,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,993
+20200426,20200515,20200515,User-submitted feedback for DABC-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,992
+20200425,20200722,NaT,[What statistic to use]  User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,991
+20200424,20200714,20200714,[Treatment and control groups are switched]  User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,990
+20200424,20200722,NaT,[Z test setup is confusing]  User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,989
+20200424,20200424,20200424,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,988
+20200424,20200424,20200424,Copyedit 0413,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,987
+20200423,20200423,20200423,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,986
+20200423,20200423,20200423,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,985
+20200422,20200423,20200423,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,984
+20200422,20200423,20200423,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,983
+20200625,20200629,20200629,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1182
+20200625,20200709,20200709,[Explain SQL counting better]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1181
+20200625,20200717,20200717,[pgAdmin install questions]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1180
+20200625,20200803,NaT,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1179
+20200625,20200626,NaT,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1178
+20200624,20200629,20200629,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1177
+20200624,20200624,20200624,adds new careers modules,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1176
+20200624,20200629,20200629,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1175
+20200624,20200624,20200624,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1174
+20200624,20200710,NaT,[Fix a charts question]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1173
+20200622,20200626,20200626,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1172
+20200622,20200622,20200622,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1171
+20200622,20200622,20200622,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1170
+20200621,20200722,20200626,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1169
+20200621,20200622,20200622,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1168
+20200620,20200620,20200620,Copyedit 0610,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1167
+20200619,20200622,20200622,User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1166
+20200619,20200622,20200622,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1165
+20200619,20200706,NaT,[Consolidate the workbooks - backlog]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1164
+20200617,20200706,20200706,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1163
+20200617,20200625,20200625,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1162
+20200616,20200617,NaT,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1161
+20200616,20200722,NaT,[Remove data from starter worksheet]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1160
+20200616,20200616,20200616,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1159
+20200616,20200616,20200616,User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1158
+20200616,20200716,20200716,[We are now asking them to share a link earlier]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1157
+20200616,20200721,20200721,[Delete the check row or not?]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1156
+20200615,20200619,20200619,adding a single column table for copy/paste purposes,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1155
+20200615,20200619,20200619,moved some text around per instructor's feedback.,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1154
+20200615,20200721,20200721,Question from the editing team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1153
+20200615,20200710,NaT,[Finished worksheet is not finished]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1152
+20200614,20200622,20200622,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1151
+20200613,20200625,20200625,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1150
+20200613,20200616,20200616,User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1149
+20200613,20200616,20200616,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1148
+20200613,20200710,20200710,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1147
+20200612,20200616,20200616,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1146
+20200612,20200721,NaT,[Issue with autograding]  User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1145
+20200612,20200616,20200616,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1144
+20200612,20200710,20200710,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1143
+20200612,20200722,NaT,[Empty out the starter file]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1142
+20200612,20200615,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1141
+20200612,20200625,20200625,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1140
+20200611,20200612,20200612,User-submitted feedback for DABC-ACE-BEHAVE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1139
+20200611,20200611,20200611,User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1138
+20200611,20200611,20200611,Move duplicated autograding content,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1137
+20200611,20200611,20200611,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1136
+20200611,20200611,20200611,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1135
+20200611,20200611,20200611,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1134
+20200611,20200722,NaT,[Unhelpful labelled ribbon]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1133
+20200611,20200611,20200611,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1132
+20200610,20200722,20200622,[There is an issue with the cells]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1131
+20200610,20200611,20200611,[The autograding thing shows up at the bottom of the page]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1130
+20200610,20200611,20200611,[Autograding issue]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1129
+20200610,20200611,20200611,[Autograding issue]  User-submitted feedback for DABC-MARKETING-ECOMMERCE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1128
+20200610,20200611,20200611,[Autograding issue]  User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1127
+20200610,20200610,20200610,Copyedit 0601,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1126
+20200609,20200629,20200629,Python updates,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1125
+20200609,20200609,20200609,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1124
+20200606,20200617,20200617,[Having issues with grad plan]  User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1123
+20200606,20200710,20200710,[Issue with grad plan]  User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1122
+20200605,20200608,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1121
+20200605,20200722,NaT,[Clean up images etc]  User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1120
+20200604,20200610,NaT,[Out of date orientation screensot]  User-submitted feedback for DABC-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1119
+20200604,20200710,20200710,[Student's activity is not submitting]  User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1118
+20200604,20200605,20200605,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1117
+20200604,20200604,20200604,User-submitted feedback for DABC-SQL-EXAM,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1116
+20200603,20200603,20200603,"Revert ""updated intro_python and Python_modules""",https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1115
+20200603,20200722,20200722,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1114
+20200603,20200603,20200603,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1113
+20200601,20200722,NaT,[Make the lesson clearer]  User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1112
+20200601,20200601,20200601,updated intro_python and Python_modules,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1111
+20200601,20200601,20200601,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1110
+20200601,20200601,NaT,[Tableau parameters is not working]  User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1109
+20200531,20200601,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1108
+20200529,20200722,NaT,[Redo assignment for more realistic]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1107
+20200529,20200601,20200601,Splitting long gif into three shorter gifs.,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1106
+20200528,20200529,20200529,[Student can't submit work]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1105
+20200528,20200528,20200528,Copyedit 0527,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1104
+20200528,20200528,20200528,User-submitted feedback for DABC-SQL-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1103
+20200527,20200601,20200601,matching text to screenshot for t-test confidence intervals,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1102
+20200527,20200601,20200601,updating case statement approaches in the ORDER BY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1101
+20200527,20200527,20200527,Fix Kaltura player,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1100
+20200527,20200527,20200527,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1099
+20200526,20200526,20200526,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1098
+20200526,20200526,20200526,[Specify where to get the data for these questions]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1097
+20200526,20200526,20200526,[Image is broken -- recheck it]  User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1096
+20200526,20200526,20200526,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1095
+20200525,20200526,20200526,[Autograding question is confusing]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1094
+20200524,20200529,NaT,[Formulas for model are different]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1093
+20200523,20200722,NaT,[Data validation range protection]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1092
+20200523,20200722,NaT,[Preparing to build your model]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1091
+20200523,20200722,NaT,[Checking data quality]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1090
+20200522,20200601,20200601,[Break down GIFs]  User-submitted feedback for DABC-CAREERS-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1089
+20200522,20200601,20200601,[GIFs for GH portfolio are too fast]  User-submitted feedback for DABC-CAREERS-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1088
+20200522,20200721,20200721,[SQL Questions are confusing]  User-submitted feedback for DABC-SQL-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1087
+20200522,20200522,20200522,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1086
+20200521,20200521,20200521,Patch view data,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1085
+20200521,20200522,20200522,[Question not clear]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1084
+20200521,20200722,NaT,[Fix images]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1083
+20200722,20200722,NaT,[Issue w VLOOKUP() in model]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1282
+20200722,20200722,20200722,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1281
+20200721,20200721,20200721,fix/updating descriptive stats text,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1280
+20200720,20200721,20200721,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1279
+20200720,20200720,20200720,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1278
+20200717,20200717,20200717,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1277
+20200717,20200731,20200731,[User sees download warning-test]User-submitted feedback for DABC-RETAIL-SALES,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1276
+20200717,20200717,20200717,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1275
+20200717,20200717,20200717,Update content.md,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1274
+20200717,20200717,NaT,Student feedback on Excel Foundations IV assignments,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1273
+20200716,20200720,20200716,Copyedit 0710 careers,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1272
+20200716,20200717,NaT,User-submitted feedback for DA-SUPPORT-NETWORK,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1271
+20200716,20200718,20200716,Copyedit quickreview,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1270
+20200716,20200717,20200717,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1269
+20200716,20200716,20200716,Fix files,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1268
+20200716,20200716,NaT,Feedback for descriptive statistics in Excel,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1267
+20200716,20200717,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1266
+20200716,20200721,20200721,User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1265
+20200715,20200720,NaT,"Create a new ""Getting SQL data into Python"" checkpoint for DA.",https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1264
+20200715,20200715,NaT,[rewrite c.i. function]  User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1263
+20200715,20200715,NaT,[More complicated conditional logic]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1262
+20200714,20200714,20200714,changed text to match screenshot (line 82),https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1261
+20200714,20200714,20200714,replacing ab-viz-5.png,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1260
+20200714,20200714,20200714,removed reference to cohen's D.,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1259
+20200714,20200714,20200714,Bugfix/one sample ttest error bars,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1258
+20200714,20200714,20200714,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1257
+20200714,20200714,NaT,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1256
+20200713,20200714,20200714,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1255
+20200713,20200714,NaT,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1254
+20200713,20200714,20200714,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1253
+20200713,20200713,20200713,User-submitted feedback for DABC-CAREERS-PROFESSIONAL-BRANDING,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1252
+20200713,20200713,20200713,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1251
+20200712,20200713,20200713,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1250
+20200711,20200713,20200713,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1249
+20200711,20200711,20200711,Copyedit quickreview,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1248
+20200710,20200716,20200716,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1247
+20200710,20200719,NaT,[fix drill questions]  User-submitted feedback for DABC-STATS-EXCEL,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1246
+20200710,20200710,NaT,[Provide a completed file]  User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1245
+20200710,20200710,NaT,Student feedback about PivotTable and chart challenge,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1244
+20200710,20200710,NaT,[Explain how to download/re-upload Tableau workbooks]  User-submitted feedback for DABC-TABLEAU-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1243
+20200709,20200709,20200709,Copyedit 0708,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1242
+20200709,20200710,20200710,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1241
+20200709,20200710,20200710,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1240
+20200709,20200709,20200709,Closes https://github.com/Thinkful-Ed/data-analytics-bootcamp/issues/1181,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1239
+20200709,20200709,20200709,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1238
+20200709,20200709,20200709,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1237
+20200709,20200709,20200709,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1236
+20200709,20200709,20200709,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1235
+20200709,20200709,20200709,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1234
+20200709,20200709,20200709,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1233
+20200709,20200709,20200709,Copyedit 0629,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1232
+20200709,20200709,20200709,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1231
+20200709,20200709,20200709,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1230
+20200709,20200709,20200709,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1229
+20200709,20200709,20200709,User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1228
+20200709,20200709,20200709,User-submitted feedback for DABC-TABLEAU-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1227
+20200708,20200709,20200709,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1226
+20200708,20200709,20200709,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1225
+20200708,20200708,20200708,User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1224
+20200707,20200708,20200708,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1223
+20200707,20200708,20200708,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1222
+20200707,20200717,20200717,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1221
+20200707,20200717,NaT,Set correct answers to Excel-70,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1220
+20200707,20200709,20200709,[Reading pandas from databases]  User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1219
+20200707,20200707,20200707,User-submitted feedback for DABC-PYTHON-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1218
+20200706,20200706,20200706,User-submitted feedback for DABC-CAPSTONE-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1217
+20200706,20200708,20200708,[Autograding went wonky]  User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1216
+20200705,20200706,20200706,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1215
+20200705,20200706,20200706,User-submitted feedback for DABC-PYTHON-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1214
+20200704,20200706,20200706,User-submitted feedback for DABC-WAY,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1213
+20200703,20200706,NaT,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1212
+20200703,20200706,NaT,[Removing redundant behavioral script]  User-submitted feedback for DABC-ACE-BEHAVE,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1211
+20200702,20200702,20200702,kick tires,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1210
+20200701,20200706,20200706,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1209
+20200630,20200706,20200706,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1208
+20200630,20200706,20200706,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1207
+20200630,20200706,NaT, [Autograding question]  User-submitted feedback for DABC-TABLEAU-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1206
+20200630,20200630,20200630,Copyedit 0619,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1205
+20200629,20200710,20200710,[Re-upload the file when you can]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1204
+20200629,20200629,20200629,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1203
+20200629,20200629,20200629,[Fix the Advanced JOIN SQL Drill]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1202
+20200629,20200710,20200710,[Re-upload this file when you can]  User-submitted feedback for DABC-EXCEL-FOUNDATIONS-4,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1201
+20200629,20200629,20200629,User-submitted feedback for DABC-ART-PRESENT-DATA,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1200
+20200629,20200629,20200629,Update objects & modules changes,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1199
+20200629,20200629,20200629,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1198
+20200628,20200629,20200629,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1197
+20200628,20200629,20200629,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1196
+20200627,20200706,20200706,[Checking in with student]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1195
+20200627,20200629,20200629,User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1194
+20200627,20200706,NaT,[Fix a drill solution]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1193
+20200627,20200720,NaT,[Potentially fix assignment question]  User-submitted feedback for DABC-SQL-3,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1192
+20200627,20200629,20200629,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1191
+20200627,20200629,20200629,User-submitted feedback for DABC-EXCEL-FOUNDATIONS-2,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1190
+20200627,20200629,20200629,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1189
+20200626,20200706,20200706,User-submitted feedback for DAI-ORIENTATION,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1188
+20200625,20200626,20200626,User-submitted feedback for DABC-PYTHON-1,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1187
+20200625,20200803,NaT,[Change the SQL ordering] Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1186
+20200625,20200720,20200720,[Question about SQL and '' in strings]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1185
+20200625,20200707,NaT,[Question about Tableau aggregations]  Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1184
+20200625,20200707,20200707,Question from the Editing Team,https://api.github.com/repos/Thinkful-Ed/data-analytics-bootcamp,1183
